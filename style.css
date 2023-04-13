@@ -1,0 +1,16 @@
+.container {
+    margin: 3.125rem auto;
+    max-width: 1080px;
+  }
+
+
+.description {
+    font-size: var(--size-subheading);
+    margin: 1rem auto;
+    text-shadow: 1px 1px #333;
+  }
+  
+  /* Header */
+  header {
+    padding: 2rem 1rem 1rem 1rem;
+  }
